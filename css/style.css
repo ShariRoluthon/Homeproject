@@ -1,0 +1,17 @@
+/*Author - Shari Roluthon
+date - 7th june 2022*/
+
+.banner{
+	background-image: url("../images/backgrnd.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.bg-opacity{
+	background: rgba(0, 0, 0, 0.5);
+}
+.section2{
+	background-color:#7F8C8D  ;
+}
+.section2 .card{
+	background: rgba(0, 0, 0, 0.7);
+}
